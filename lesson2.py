@@ -34,7 +34,7 @@
 #     print('result', result)
 
 
-# lists = [1, 2, 3, 4]
+lists = [1, 2, 3, 4]
 # if 5 in lists:
 #     print("Hello")
 
